@@ -43,5 +43,6 @@ Note: PDF files can be typed in, also able to download these from Cisco Academy
 
 Caution: if using WORD docs, please resave these as PDFs and submit to Cisco Academy for grading
 
+- Chp4_Supplemental_Material.pptx
 - 4.3.3.1 Video - Fundamentals of ISE.docx
 - 4.3.3.1 Video - Fundamentals of ISE.pdf
