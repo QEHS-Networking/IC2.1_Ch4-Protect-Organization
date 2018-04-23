@@ -6,12 +6,12 @@ Chapter Planning and Handouts
 
 ## Chapter Planning (Use as a Checklist)
 1. Read 4.0.1.1 -  (Pages)
-   - 
+   -
 
-See Additional Resources and Activities for Chapter 1
+See Additional Resources and Activities for Chapter 4
 In GitHub, see PDF located in Introduction
-Review Cue Cards (Ch 1 Terms and Concepts Practice)
-Complete Ch 1 Quiz
+Review Cue Cards (Ch 4 Terms and Concepts Practice)
+Complete Ch 4 Quiz
 
 ## Contents of this Repo
 Note: PDF files can be typed in, also able to download these from Cisco Academy
