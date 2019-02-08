@@ -38,6 +38,47 @@ Chapter Planning and Handouts
 15. Review Cue Cards (Ch 4 Terms and Concepts Practice)
 16. Complete Ch 4 Quiz
 
+## Additional Readings of Chapter 4
+
+Note: Additional information and questions can be Googled or asked of guest speakers using this vocabulary
+
+Computer Security Incident Response Team
+- To learn more about CSIRT, and how it is composed, visit the following link:
+- https://tools.cisco.com/security/center/emergency.x?i=56#3
+
+CSIRT Monitoring for the Cisco House at the London 2012 Olympics Games
+- View the following YouTube video, which depicts CSIRT members in action at the 2012 Olympic Games:
+- http://www.youtube.com/watch?v=Hx8iGQIJ-aQ
+
+Cisco Web Security Appliance
+- The Cisco Web Security Appliance (WSA) is an all-in-one solution that combines advanced malware protection, application visibility and control, acceptable use policies, insightful reporting, and secure mobility on a single platform. For more information on WSA, visit the following link:
+- http://www.cisco.com/c/en/us/products/security/web-security-appliance/index.html
+
+Cisco IronPort Email Security Appliance Reputation Filtering
+- Cisco IronPort Reputation Filters provide spam protection for your email infrastructure. Acting as a first line of defense, these filters remove up to 80 percent of incoming spam at the connection level. For more information about Email Security Appliance (ESA) reputation filtering, visit the following link:
+- http://www.cisco.com/en/US/prod/vpndevc/ps10128/ps10154/rep_filters_index.html
+
+Cisco Cyber Threat Defense
+- Cisco Cyber Threat Defense focuses on the most complex, dangerous information security threats, which lurk in networks for months or years, stealing vital information and disrupting operations. It exposes these threats by identifying suspicious network traffic patterns within the network interior. Then, it provides contextual information about the attack, users, identity, and more — all visible from a single pane of glass. For more information, visit the following link:
+- http://www.cisco.com/en/US/netsol/ns1238/index.html
+
+Network-Based Intrusion Prevention Case Study
+- Intrusion prevention systems (IPS) are an important part of the defense-in-depth strategy at Cisco. There are two primary IPS implementations: Perimeter-based IPS deployments and Network-based IPS deployments. To learn more about the need for both deployment models to secure network traffic, access the case study at
+the following link:
+- http://www.cico.com/web/about/ciscoitatwork/security/csirt_networkbased_intrusion_prevention_system_web.html
+
+Using a Playbook Model
+- In a complex network, the data gathered from different monitoring tools can easily become overwhelming. In this activity, you will create your own playbook to organize and document this monitoring data. Visit the following link to have a better understanding of a playbook:
+- https://blogs.cisco.com/security/using-a-playbook-model-to-organize-your-information-security-monitoringstrategy/
+
+Hacking On a Dime
+- The “Hacking On a Dime” link explains how to use nmap (network mapper) to gather information about a target network.
+- http://hackonadime.blogspot.com/2011/05/information-gathering-using-nmap-and.html
+
+Note: nmap is an extremely popular and powerful port scanner that was first released in 1997. Originally it
+was Linux only; however, it was later ported to numerous platforms, including Windows and Mac OS X. It is
+still provided as free software; for more information, see http://nmap.org/.
+
 ## Contents of this Repo
 Note: PDF files can be typed in, also able to download these from Cisco Academy
 
@@ -46,3 +87,10 @@ Caution: if using WORD docs, please resave these as PDFs and submit to Cisco Aca
 - Chp4_Supplemental_Material.pptx
 - 4.3.3.1 Video - Fundamentals of ISE.docx
 - 4.3.3.1 Video - Fundamentals of ISE.pdf
+
+---
+
+# To Include
+
+
+---
